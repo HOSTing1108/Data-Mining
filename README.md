@@ -1,5 +1,5 @@
 # Data-Mining_Aclass_GroupA
- **Topic: Proposing a machine learning model for fake news classification
+Topic: Proposing a machine learning model for fake news classification
 
 ## 실험 환경 정보
 - **Python 버전**: 3.10.16
