@@ -1,4 +1,4 @@
-# Data-Mining_Aclass_GroupA
+# Fake News Classification Using Logistic Regression
 **Topic**: Proposing a machine learning model for fake news classification
 
 ## 실험 환경 정보
@@ -20,8 +20,8 @@
 - **임베딩 파일**:
   - 'X_test_text_bert.npy': 본문 테스트 셋을 임베딩한 파일(파일이 너무 커 압축 파일 사용)
   - 'X_test_title_bert.npy': 제목 테스트 셋을 임베딩한 파일(파일이 너무 커 압축 파일 사용)
-  - 'X_train_text_bert.npy': (https://drive.google.com/file/d/1pLCAR_oDBOifYfk3msT2yIa9CPP-k-9_/view?usp=sharing)에서 다운로드할 수 있습니다.
-  - 'X_train_title_bert.npy': (https://drive.google.com/file/d/1bjHtf_v1Tebh06uZwmcIOR2jPh8Whp_B/view?usp=sharing)에서 다운로드할 수 있습니다.
+  - **[X_train_text_bert.npy](https://drive.google.com/file/d/1pLCAR_oDBOifYfk3msT2yIa9CPP-k-9_/view?usp=sharing)**: 트레인 데이터 본문 임베딩 파일
+  - **[X_train_title_bert.npy](https://drive.google.com/file/d/1bjHtf_v1Tebh06uZwmcIOR2jPh8Whp_B/view?usp=sharing)**: 트레인 데이터 제목 임베딩 파일
 - **모델 파일**:
   - 'logreg_model.pkl': 학습된 로지스틱 회귀 모델.
   - 'scaler.pkl': 모델 훈련에 사용된 스케일러.
